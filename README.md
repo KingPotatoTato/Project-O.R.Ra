@@ -1,5 +1,4 @@
-# Project-O.R.Ra
-(Open Range Radio)
+# Open Range Radio (O.R.Ra)
 Decentralized wireless telecommunications system.
 
 Main setup:
